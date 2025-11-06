@@ -2,7 +2,7 @@
 
 You can access the dataset by _contacting the corresponding author of our paper via email_: 
 
-\<Under Review, Will be Published once Accpeted\>
+\<Accepted, waiting for Published\>
 
 Here are **some examples** of the data.
 
